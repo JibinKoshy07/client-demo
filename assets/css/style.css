@@ -161,6 +161,20 @@ body {
   color: #fff;
 }
 
+/* 
+--------------------------------------------
+rate tag
+--------------------------------------------
+*/
+
+/* .price-tag{
+  background-color: rgb(185, 255, 95);
+  color: #f9735b;
+} */
+
+
+
+
 
 /* 
 ---------------------------------------------
@@ -911,9 +925,9 @@ trainers
 }
 
 #trainers .trainer-item span {
-  font-size: 13px;
+  font-size: 18px;
   font-weight: 500;
-  color: #60FF39;
+  color: #ff3939;
   display: inline-block;
   margin-top: 25px;
   margin-bottom: 10px;
